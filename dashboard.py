@@ -39,7 +39,7 @@ with st.spinner("loading data...."):
 
 # creating the interface
 c1,c2,c3 = st.columns(3)
-c1.title("immigration Analysis")
+c1.title("Immigration Analysis")
 c2.header("summary of data")
 total_row = df.shape[0]
 total_imig =df.total.sum()
