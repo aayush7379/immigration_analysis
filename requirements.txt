@@ -1,0 +1,5 @@
+pandas
+sreamlit
+plotly
+nbformat
+openpyxl
